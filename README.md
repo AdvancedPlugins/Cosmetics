@@ -8,6 +8,9 @@ Join our support Discord for any type of help! https://discord.gg/advancedplugin
 
 ## Download AdvancedCosmetics
 AdvancedPlugins.net: https://advancedplugins.net/item/AdvancedCosmetics.207
+
 SpigotMC.org: https://www.spigotmc.org/resources/advancedcosmetics.123056/
+
 Polymart: https://polymart.org/resource/advancedcosmetics.7349
+
 BuiltByBit: https://builtbybit.com/resources/advancedcosmetics.61978/
